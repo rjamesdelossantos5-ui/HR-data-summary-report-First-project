@@ -3,11 +3,12 @@
 
 Global HR Executive Dashboard (Excel)
 
-Project Overview
+* Project Overview
 
 This project involved transforming a raw HR dataset into an interactive, professional-grade dashboard. The goal was to provide HR leaders with a "single pane of glass" view into global workforce metrics, including payroll distribution, headcount demographics, and performance analysis.
 
-Key Questions Answered:
+
+* Key Questions Answered:
 
 What is the total annual payroll across the entire organization?
 
@@ -17,7 +18,8 @@ What are the age demographics and average tenure of our employees?
 
 Which departments or job titles are receiving the highest bonuses?
 
-Tools & Techniques Used
+
+* Tools & Techniques Used
 
 Microsoft Excel: The primary tool for data processing and visualization.
 
@@ -29,7 +31,8 @@ Dynamic Interactivity: Integrated Slicers for "Department" and "Country" to allo
 
 Data Visualization: Built a suite of charts including Donut charts for gender, Line charts for tenure, and Grouped Bar charts for salary analysis.
 
-Interactive Features
+
+* Interactive Features
 
 To use the dashboard, simply use the Control Panel on the right side:
 
@@ -39,7 +42,8 @@ Country Slicer: Filter the entire report by geographic location.
 
 Clear Filters: Use the funnel icon in the top right of the slicers to return to the global view.
 
-Key Insights Discovered
+
+* Key Insights Discovered
 
 Payroll Concentration: The IT and Engineering departments account for over 35% of total annual payroll.
 
