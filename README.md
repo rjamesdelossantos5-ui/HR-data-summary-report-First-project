@@ -2,6 +2,7 @@
 // MY FIRST EVER EXCEL PROJECT SO BEAR WITH ME 
 
 Global HR Executive Dashboard (Excel)
+
 Project Overview
 This project involved transforming a raw HR dataset into an interactive, professional-grade dashboard. The goal was to provide HR leaders with a "single pane of glass" view into global workforce metrics, including payroll distribution, headcount demographics, and performance analysis.
 
